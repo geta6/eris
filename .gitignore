@@ -1,0 +1,13 @@
+*~
+.DS_Store
+.Apple*
+node_modules
+
+*.mp3
+
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+**/*.xcodeproj/*
+!**/*.xcodeproj/project.pbxproj
+!*.xcodeproj/default.*
+!**/*.xcodeproj/default.*
